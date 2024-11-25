@@ -4,7 +4,7 @@ export const FooterComponent = () => {
   return (
     <div>
       <footer className="footer">
-        <span>All rights reserved 2024 by sunil</span>
+        <span>Footer section</span>
       </footer>
     </div>
   );
