@@ -4,7 +4,7 @@ export const HeaderComponent = () => {
   return (
     <div>
       <header className="header">
-        <span>Employee management system</span>
+        <span>Student management system</span>
       </header>
     </div>
   );
